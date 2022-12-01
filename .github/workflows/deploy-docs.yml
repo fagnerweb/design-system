@@ -21,7 +21,7 @@ jobs:
 
       - run: npm run build
         env:
-          TURBO_TOKEN: RjA3ce6gvq0FEyDP19cBc1i7
+          TURBO_TOKEN: ydwpT6yjjj3TXm8DrwF9j3ES
           TURBO_TEAM: fagnerweb
 
       - name: Deploy storybook
