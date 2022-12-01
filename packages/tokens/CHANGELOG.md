@@ -1,5 +1,11 @@
 # @fagnerweb-ignite-ui/tokens
 
+## 1.4.0
+
+### Minor Changes
+
+- Remove test color in tokens
+
 ## 1.3.0
 
 ### Minor Changes
