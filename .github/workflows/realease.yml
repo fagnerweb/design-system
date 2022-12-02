@@ -33,5 +33,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-          TURBO_TOKEN: ydwpT6yjjj3TXm8DrwF9j3ES
+          TURBO_TOKEN: ${{ secrets.VERSEL_TOKEN }}
           TURBO_TEAM: fagnerweb
